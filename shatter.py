@@ -1,3 +1,4 @@
+# CHAT STATS FOR WHATSAPP
 from datetime import datetime
 from prettytable import PrettyTable
 import glob
